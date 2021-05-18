@@ -11,3 +11,6 @@ In each project was done an end-to-end project, including the following sequence
 - Presets of the model to help the running of the machine learning algorithm, choose of the metrics and fuctions for better visualization of the results given from the models.
 - Machine Learning Models, with a list of all algorithm that it will be tested on project and it will be chosen the one with the highest score of the metrics chosen.
 - Conclusion of project, summarization of all useful information obtained on project and what action need to be taken to improve the results and revenue of the company.
+
+# Projects
+Classification
