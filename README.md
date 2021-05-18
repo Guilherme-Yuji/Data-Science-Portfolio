@@ -14,4 +14,4 @@ In each project was done an end-to-end project, including the following sequence
 
 # Projects
 ## Classification
-[Bank Client Churn]()
+[Bank Client Churn](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/Bank%20Client%20Churn.ipynb)
