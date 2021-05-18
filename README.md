@@ -13,4 +13,5 @@ In each project was done an end-to-end project, including the following sequence
 - Conclusion of project, summarization of all useful information obtained on project and what action need to be taken to improve the results and revenue of the company.
 
 # Projects
-Classification
+## Classification
+[Bank Client Churn]()
