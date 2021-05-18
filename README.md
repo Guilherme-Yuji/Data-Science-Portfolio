@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-In this portfolio you will find Classification, Regression, NLP and Clustering projects. All datasets were obtained in Kaggle website.
+In this portfolio you will find Classification, Regression, NLP and Clustering projects. All datasets were obtained from Kaggle website.
 
 In each project was done an end-to-end project, including the following sequence of steps:
 - Introduction of the project, giving all the necessary information for the understanding of the project, and a description of the variables used.
