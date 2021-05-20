@@ -18,4 +18,4 @@ In each project was done an end-to-end project, including the following sequence
 - [Bank Marketing Campaign](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/Bank%20Marketing%20Campaign.ipynb): In this project was analyzed the data that most influences a client to make a deposit to the bank. A marketing strategy was done and also a prediction if of a cliente deposit was made.
 
 ## Regression
-- [Old Car Market]()
+- [Old Car Market](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/Used%20Car%20Market.ipynb): In this project it was studied factors that impacts the price of an used car and how they are associated. It was also made a  model to predict the price of an used car.
