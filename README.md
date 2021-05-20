@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 In this portfolio you will find data science projects with problems that many companies are trying to solve nowadays. All projects weer developed by me. Datasets were obtained from Kaggle website.
 
 In each project was done an end-to-end project, including the following sequence of steps:
