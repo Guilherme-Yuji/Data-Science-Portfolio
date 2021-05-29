@@ -18,6 +18,7 @@ In each project was done an end-to-end project, including the following sequence
 
 ## Classification
 - [Bank Client Churn](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/Bank%20Client%20Churn.ipynb): In this project was analyzed all the information given from the dataset and also it predicts if a client will churn ou not.
+
 - [Bank Marketing Campaign](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/Bank%20Marketing%20Campaign.ipynb): In this project was analyzed the data that most influences a client to make a deposit to the bank. A marketing strategy was done and also a prediction if of a cliente deposit was made.
 
 ## Regression
