@@ -22,7 +22,7 @@ In each project was done an end-to-end project, including the following sequence
 - [Bank Marketing Campaign](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/tree/main/bankMarketingCampaign): In this project was analyzed the data that most influences a client to make a deposit to the bank. A marketing strategy was done and also a prediction if of a cliente deposit was made.
 
 ## Regression
-- [Old Car Market](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/tree/main/usedCarMarket): In this project it was studied factors that impacts the price of an used car and how they are associated. It was also made a  model to predict the price of an used car.
+- [Used Car Market](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/tree/main/usedCarMarket): In this project it was studied factors that impacts the price of an used car and how they are associated. It was also made a  model to predict the price of an used car.
 
 ## EDA
 - [Supermarket Sales Analysis](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/tree/main/superMarketSalesAnalysis): In this project was analyzed the correlation between products, days of week, type of customer, branch, payment method and much more.
