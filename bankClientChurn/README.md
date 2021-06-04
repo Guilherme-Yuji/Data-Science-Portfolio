@@ -11,6 +11,8 @@
 ## 5. Machine Learning Model Applied
 
 ## 6. Machine Learning Model Performance
+$X_a = 2$
+
 
 ## 7. Business Results
 
