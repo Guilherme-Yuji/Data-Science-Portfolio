@@ -2,6 +2,7 @@
 
 ## 1. Business Problem
 Churn of clients is a growing problem in this bank company and as a result, the profit of the company is decreasing. The directors of the bank are worried about the falling financial results of the business. 
+
 To prevent the lost of a customer and also all the consequences mentioned above, the bank is trying to understand what factors influence clients to quit or stop using their products and services. Another objetive of the bank is to try to predict if a customer has a high to churn.
 
 ## 2. Business Assumptions
