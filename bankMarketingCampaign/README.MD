@@ -1,7 +1,7 @@
 # Bank Marketing Campaign
 
 ## 1. Business Problem
-Getting new clients is a extremely important task in any business because they impact on the revenue and growth of the company. In this project a bank company is using a marketing campaign strategy to raise the number of customers using their products and services. But problem is, what is the best strategy to achive this results? To solve this problem, the bank needs to understand what are the best strategies to use and who are main target person of the marketing. 
+Getting new clients or make their customers active is a extremely important task in any business because they impact on the revenue and growth of the company. In this project a bank company is using a marketing campaign strategy to raise the number of customers using their products and services and also try the convince the unative people to make a deposit into the bank. But problem is, what is the best strategy to achive this results? To solve this problem, the bank needs to understand what are the best strategies to use and who are main target person of the marketing. 
 
 The goal of this project is:
 - Make a marketing strategy to get more clients.
