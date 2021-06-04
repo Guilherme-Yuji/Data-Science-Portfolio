@@ -8,6 +8,15 @@ To prevent the lost of a customer and also all the consequences mentioned above,
 ## 2. Business Assumptions
 
 ## 3. Solution Strategy
+To solve the business problem of the bank, the following steps will be done:
+- Data Description: Identify data contaning on the dataset provided by the company.
+- Data Filtering: Filter rows and columns that do not contain information that matches the business problem.
+- Data Cleaning: Check for null values and duplicated data and solve them.
+- EDA: Explore the data to find insights and to understand how the variables impact the churn rate.
+- Feature Engineering: Convert the data into comprehensible information to the machine learning models.
+- Machine Learning Models: Build machine learning models to predict the churn.
+- Avaliation of the Machine Learning results: Check the results provided by the models.
+- Convert Model Performance to Business Values: Convert the performance of the Machine Learning Models into business results.
 
 ## 4. Top Insights
 
