@@ -16,19 +16,22 @@ To solve the business problem of the bank, the following steps will be done:
 - Avaliation of the Machine Learning results: Check the results provided by the models.
 - Convert Model Performance to Business Values: Convert the performance of the Machine Learning Models into business results.
 
-## 3. Top Insights
+## 3. Top 3 Insights
+By the analysis of the dataset provided, it can be concluded that clients that churn in this bank have the following characteristics:
+- Credit card limit lower than 5K.
+- Do around 40 transations a year.
+- Have 2 or 3 products held of the bank.
 
 ## 4. Machine Learning Model Applied
+It has tested a list of Machine Learning classifier algorithms and the one with the best performance was chosen to be used in future predictions.
+
+The chosen model was Gradient Boost
 
 ## 5. Machine Learning Model Performance
-| Model | Metric |
+| Model | AUC Metric |
 | ------- | ------- |
-| Regression | Accuracy |
+| Gradient Boost | 0.945 |
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
 
 ## 6. Business Results
 
