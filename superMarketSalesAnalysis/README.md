@@ -1,5 +1,7 @@
 # Supermarket Sales Analysis
 
+![alt text](https://images.unsplash.com/photo-1534723452862-4c874018d66d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+
 ## 1. Business Problem
 Supermarkets are one the most popular places in the lives of the people. The owners of a supermarket need to understand how their products are sold, which branch sells more, what type of product are the most sold in each branch and also more insights that can be gotten through the data.
 
