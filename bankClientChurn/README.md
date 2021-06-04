@@ -39,4 +39,4 @@ According to the dataset, 1627 customers had churn on some bank service. This va
 If the company that done earlier this analysis, about 94.5% the this churn customers (1537 clients) could be prevented by taken some actions. If they held a $100 per month service, the company would have earned a total of $1,844,400.00 in a year.
 
 ## Notebook solution of the problem
-[Click here to see the notebook with the solution of this problem]()
+[Click here to see the notebook with the solution of this problem](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/bankClientChurn/Bank%20Client%20Churn.ipynb)
