@@ -12,7 +12,8 @@
 
 ## 6. Machine Learning Model Performance
 | Model | Metric |
-|Regression | Accuracy |
+| ------- | ------- |
+| Regression | Accuracy |
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
 | ------------------- | ------------------- |
