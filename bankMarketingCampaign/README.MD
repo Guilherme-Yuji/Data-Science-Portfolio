@@ -1,6 +1,6 @@
 # Bank Marketing Campaign
 
-[alt text](https://images.unsplash.com/photo-1488998527040-85054a85150e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+![alt text](https://images.unsplash.com/photo-1488998527040-85054a85150e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 ## 1. Business Problem
 Getting new clients or make their customers active is a extremely important task in any business because they impact on the revenue and growth of the company. In this project a bank company is using a marketing campaign strategy to raise the number of customers using their products and services and also try the convince the unative people to make a deposit into the bank. But problem is, what is the best strategy to achive this results? To solve this problem, the bank needs to understand what are the best strategies to use and who are main target person of the marketing. 
