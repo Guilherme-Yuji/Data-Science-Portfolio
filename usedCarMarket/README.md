@@ -3,8 +3,9 @@
 ## 1. Business Problem
 The Used Car Market is a very importance business nowadays. Knowing the price of the car could be sold is a difficult task. So problem of the company is to know what is the correct price of car they can offer to their customers according to some characteristics of the automobile to maximize their profits and also don't get cheated by the buyers.
 
-To solve the problem of this company, the folliwing steps will be done:
-
+To goals of this project are:
+- Understand what variables of the used car have the most influence on the price
+- Predict the price of the used car according to their characteristics.
 
 ## 2. Solution Strategy
 To solve the business problem of the bank, the following steps will be done:
