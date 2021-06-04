@@ -1,6 +1,11 @@
 # Bank Marketing Campaign
 
 ## 1. Business Problem
+Getting new clients is a extremely important task in any business because they impact on the revenue and growth of the company. In this project a bank company is using a marketing campaign strategy to raise the number of customers using their products and services. But problem is, what is the best strategy to achive this results? To solve this problem, the bank needs to understand what are the best strategies to use and who are main target person of the marketing. 
+
+The goal of this project is:
+- Make a marketing strategy to get more clients.
+- Identify the main target of this campaign by the prediction of a deposit in the bank.
 
 ## 2. Solution Strategy
 To solve the business problem of the bank, the following steps will be done:
@@ -13,7 +18,7 @@ To solve the business problem of the bank, the following steps will be done:
 - Avaliation of the Machine Learning results: Check the results provided by the models.
 - Convert Model Performance to Business Values: Convert the performance of the Machine Learning Models into business results.
 
-## 3. Top Insights
+## 3. Top 3 Insights
 By the analysis of the dataset provided, it can be concluded that clients that make a deposit in this bank have the following characteristics:
 - Age about 20 years old and older than 60 years old.
 - Are students
@@ -30,7 +35,9 @@ The chosen model was Gradient Boost
 | Gradient Boost | 0.807 |
 
 ## 6. Business Results
+According to the dataset, 5873 customers did not make a deposit in the bank on the last year. This value represents 52.6% of the total clients.
 
+If the company had done earlier this analysis, about 94.5% the this churn customers (1537 clients) could be prevented by taken some actions. If they held a $100 per month service, the company would have earned a total of $1,844,400.00 in a year.
 
 ## Notebook solution of the problem
 [Click here to see the notebook with the solution of this problem](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/bankMarketingCampaign/Bank%20Marketing%20Campaign.ipynb)
