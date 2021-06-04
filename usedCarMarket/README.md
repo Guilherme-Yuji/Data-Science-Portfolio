@@ -34,6 +34,7 @@ The chosen model was XGBoost.
 | XGBoost | 0.908 |
 
 ## 6. Business Results
+According the dataset, the company has 6019 cars to be solded. It can be expected that with the analysis and prediction shown above, to company can increase 5% of their profit by selling the car with the correct price or even not getting cheated by the buyers. With of performance of metric of 90.8%, they can earn about $2,560,000.00 by the selling of all their used car with the correct price considering more 5% into their profit.
 
 ## Notebook solution of the problem
 [Click here to see the notebook with the solution of this problem](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/usedCarMarket/Used%20Car%20Market.ipynb)
