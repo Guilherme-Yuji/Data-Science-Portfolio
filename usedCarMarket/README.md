@@ -1,5 +1,7 @@
 # Used Car Market
 
+![alt text](https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+
 ## 1. Business Problem
 The Used Car Market is a very importance business nowadays. Knowing the price of the car could be sold is a difficult task. So problem of the company is to know what is the correct price of car they can offer to their customers according to some characteristics of the automobile to maximize their profits and also don't get cheated by the buyers.
 
