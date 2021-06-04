@@ -33,4 +33,4 @@ The chosen model was Gradient Boost
 
 
 ## Notebook solution of the problem
-[Click here to see the notebook with the solution of this problem](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/bankClientChurn/Bank%20Client%20Churn.ipynb)
+[Click here to see the notebook with the solution of this problem](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/bankMarketingCampaign/Bank%20Marketing%20Campaign.ipynb)
