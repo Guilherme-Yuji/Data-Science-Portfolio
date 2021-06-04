@@ -14,6 +14,10 @@
 | Model | Metric |
 |Regression | Accuracy |
 
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
 
 ## 7. Business Results
 
