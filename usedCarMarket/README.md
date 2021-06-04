@@ -13,7 +13,10 @@ To solve the business problem of the bank, the following steps will be done:
 - Avaliation of the Machine Learning results: Check the results provided by the models.
 - Convert Model Performance to Business Values: Convert the performance of the Machine Learning Models into business results.
 
-## 3. Top Insights
+## 3. Top 3 Insights
+- As newer the car is, higher it will be the price.
+- Brands like Lamborghini, Bentley and Porsche have more expensive cars.
+- Automatic car is approximately 3.7 time more expesive than manual cars.
 
 ## 4. Machine Learning Model Applied
 It has tested a list of Machine Learning regression algorithms and the one with the best performance was chosen to be used in future predictions.
