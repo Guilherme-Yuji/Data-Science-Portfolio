@@ -1,6 +1,6 @@
 # Bank Client Churn
 
-![alt text](https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=695&q=80)
+![alt text](https://images.unsplash.com/photo-1518135714426-c18f5ffb6f4d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=773&q=80)
 
 ## 1. Business Problem
 Churn of clients is a growing problem in this bank company and as a result, the profit of the company is decreasing. The directors of the bank are worried about the falling financial results of the business. 
