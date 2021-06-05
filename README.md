@@ -28,4 +28,4 @@ In each project was done an end-to-end project, including the following sequence
 - [Supermarket Sales Analysis](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/tree/main/superMarketSalesAnalysis): In this project was analyzed the correlation between products, days of week, type of customer, branch, payment method and much more.
 
 ## App
-- [Data Science App](https://github.com/Guilherme-Yuji/data_heroku): In this app, you can perform a fast EDA of your classification or regression task to speed up your insights.
+- [Data Science App](https://github.com/Guilherme-Yuji/data_heroku): In this deployed app, you can perform a fast EDA of your classification or regression task to speed up your insights.
