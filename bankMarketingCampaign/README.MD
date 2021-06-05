@@ -34,12 +34,12 @@ The chosen model was Gradient Boost
 ## 5. Machine Learning Model Performance
 | Model | Accuracy Metric |
 | ------- | ------- |
-| Gradient Boost | 0.807 |
+| Gradient Boost | 0.793 |
 
 ## 6. Business Results
 According to the dataset, 5873 customers did not make a deposit in the bank on the last year. This value represents 52.6% of the total clients.
 
-If the company had done earlier this analysis, they could make about 50% of the people that did not make a deposit make. Knowing the the algorith has 80.7% of accuracy, about 2370 could be convinced or start business with bank, making a deposit. If they deposit a least $50 for month, the company would have gotten a total of $1,422,000.00 in a year into their company to invest on their necessities.
+If the company had done earlier this analysis, they could make about 50% of the people that did not make a deposit make. Knowing the the algorith has 79.3% of accuracy, about 2370 could be convinced or start business with bank, making a deposit. If they deposit a least $50 for month, the company would have gotten a total of $1,397,186.70 in a year into their company to invest on their necessities.
 
 ## Notebook solution of the problem
 [Click here to see the notebook with the solution of this problem](https://github.com/Guilherme-Yuji/Data-Science-Portfolio/blob/main/bankMarketingCampaign/Bank%20Marketing%20Campaign.ipynb)
